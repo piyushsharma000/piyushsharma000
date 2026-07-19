@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋, I'm Piyush Sharma
 
-<!--
-**piyushsharma000/piyushsharma000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am passionate about turning raw data into meaningful insights using data analysis and visualization tools. I enjoy solving business problems through dashboards and data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+
+---
+
+## 📂 Featured Projects
+
+### 📈 HR Analysis Dashboard
+- Excel Dashboard
+- Employee Analytics
+- Attrition Analysis
+
+### 🚕 Uber Analysis Dashboard
+- Power BI Dashboard
+- Ride Analysis
+- Revenue Insights
+
+### 🛒 Blinkit Sales Dashboard
+- Sales Analysis
+- Customer Insights
+- Power BI
+
+### 🍔 Swiggy Sales Dashboard
+- Excel Dashboard
+- Restaurant Sales Analysis
+
+### 💳 PhonePe Transaction Dashboard
+- Power BI Dashboard
+- Digital Payment Analysis
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Python for Data Analysis
+- Statistics
+- Machine Learning Basics
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: 
+- Email: piyush95889732@gmail.com
