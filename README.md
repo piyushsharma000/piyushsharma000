@@ -56,5 +56,5 @@ I am passionate about turning raw data into meaningful insights using data analy
 
 ## 📫 Connect With Me
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/piyush-sharma-0972182b7?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Email: piyush95889732@gmail.com
